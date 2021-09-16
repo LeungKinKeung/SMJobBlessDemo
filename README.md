@@ -1,4 +1,4 @@
-# SMJobBlessDemo
+# SMJobBlessSample
 
 macOS SMJobBless 示例代码
 
